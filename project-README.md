@@ -1,0 +1,2 @@
+This project was to refactor the code for a website for Horiseon Social Solution Services, Inc. The issues I found with the site that
+I fixed were a missing title, a broken link, missing alt tags and descriptions, and consolidating some CSS selectors. 
